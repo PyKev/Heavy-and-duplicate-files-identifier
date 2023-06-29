@@ -1,6 +1,6 @@
 # Identificador-archivos-pesados-y-duplicados
 
-Este script de Python permite procesar archivos en una carpeta específica y generar un informe con detalles sobre los archivos encontrados. El objetivo principal es identificar archivos duplicados y archivos pesados dentro de la carpeta.
+Este script de Python "AnalizaArchivos.py" permite procesar archivos en una carpeta específica y generar un informe con detalles sobre los archivos encontrados. El objetivo principal es identificar archivos duplicados y archivos pesados dentro de la carpeta.
 
 ## Requisitos
 - Python 3.x
