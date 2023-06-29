@@ -13,7 +13,6 @@ Este script de Python permite procesar archivos en una carpeta específica y gen
 - Ejecuta el archivo "procesar_archivos.py" en un entorno de Python.
 
 ## Funciones del script:
-- Eliminará una línea específica en cada archivo.
 - Unirá los archivos en uno solo llamado "Prueba.txt".
 - Procesará los datos del archivo "Prueba.txt" para obtener información sobre los archivos y carpetas.
 - Identificará y mostrará los archivos duplicados.
