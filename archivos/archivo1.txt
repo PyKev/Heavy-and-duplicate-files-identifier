@@ -1,0 +1,34 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 1234-5678
+
+ Directorio de C:\mis_archivos
+
+08/04/2023  10:30 p. m.    <DIR>          MI_PC\Usuario1         .
+08/04/2023  10:30 p. m.    <DIR>          MI_PC\Usuario1         ..
+08/04/2023  10:10 p. m.    <DIR>          MI_PC\Usuario1         carpeta1
+08/04/2023  09:40 p. m.    <DIR>          MI_PC\Usuario2         carpeta2
+08/04/2023  06:05 p. m.         3,500,000 MI_PC\Usuario1         archivo2.pdf
+08/04/2023  10:30 p. m.            10,245 MI_PC\Usuario3         archivo3.txt
+08/04/2023  08:50 p. m.           827,124 MI_PC\Usuario2         archivo1.jpg
+08/04/2023  08:50 p. m.           827,124 MI_PC\Usuario2         archivo1.jpg
+               4 archivos      5,164,493 bytes
+
+ Directorio de C:\mis_archivos\carpeta1
+
+08/04/2023  10:10 p. m.    <DIR>          MI_PC\Usuario1         .
+08/04/2023  10:10 p. m.    <DIR>          MI_PC\Usuario1         ..
+08/04/2023  10:15 p. m.            50,000 MI_PC\Usuario1         archivo5.txt
+08/04/2023  10:10 p. m.           200,000 MI_PC\Usuario1         archivo4.docx
+               2 archivos        250,000 bytes
+
+ Directorio de C:\mis_archivos\carpeta2
+
+08/04/2023  09:40 p. m.    <DIR>          MI_PC\Usuario2         .
+08/04/2023  09:40 p. m.    <DIR>          MI_PC\Usuario2         ..
+08/04/2023  09:40 p. m.           800,000 MI_PC\Usuario2         archivo6.jpg
+08/04/2023  08:00 p. m.         1,000,000 MI_PC\Usuario1         archivo7.pdf
+               2 archivos      1,800,000 bytes
+
+     Total de archivos en la lista:
+              8 archivos      7,214,493 bytes
+              5 dirs  100,000,000,000 bytes libres
