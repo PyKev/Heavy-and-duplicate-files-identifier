@@ -1,27 +1,28 @@
-# Identificador-archivos-pesados-y-duplicados
+# Heavy and Duplicate Files Identifier
 
-Este script de Python "AnalizaArchivos.py" permite procesar archivos en una carpeta específica y generar un informe con detalles sobre los archivos encontrados. El objetivo principal es identificar archivos duplicados y archivos pesados dentro de la carpeta.
+This Python script, "AnalizaArchivos.py," allows you to process files in a specific folder and generate a report with details about the files found. The main objective is to identify duplicate files and heavy files within the folder.
 
-## Requisitos
+## Requirements
 - Python 3.x
-- Biblioteca Pandas
-  
-## Instrucciones de Uso
-- Clona el repositorio en tu máquina local.
-- Ve a cmd y ejecuta el comando en las carpetas que deseas analizar `dir /s /a /q > tuarchivo.txt`
-- Coloca el o los archivos generados que deseas procesar en la carpeta "archivos".
-- Ejecuta el archivo "procesar_archivos.py" en un entorno de Python.
+- Pandas library
 
-## Funciones del script:
-- Unirá los archivos en uno solo llamado "Prueba.txt".
-- Procesará los datos del archivo "Prueba.txt" para obtener información sobre los archivos y carpetas.
-- Identificará y mostrará los archivos duplicados.
-- Ordenará y filtrará el resultado obtenido.
-- Creará un archivo de Excel llamado "PruebaExcel.xlsx" con dos hojas: "TOP archivos pesados" y "Archivos duplicados".
-  
-## Resultado
-Puedes encontrar el informe generado en el archivo "PruebaExcel.xlsx". El informe contiene información detallada sobre los archivos, incluyendo el nombre, tamaño, propietario, peso, peso en GB, fecha, ruta y tipo de archivo.
-Asegúrate de revisar el informe para identificar cualquier archivo duplicado y los archivos más pesados dentro de la carpeta.
+## Usage Instructions
+- Clone the repository to your local machine.
+- Open the command prompt and navigate to the folder you want to analyze.
+- Run the command `dir /s /a /q > yourfile.txt` to generate a file listing of the folder and its subdirectories.
+- Place the generated file(s) that you want to process in the "archivos" (file) folder.
+- Execute the "AnalizaArchivos.py" file in a Python environment.
 
-## Notas adicionales
-Si deseas cambiar la carpeta de origen, puedes modificar la variable "carpeta" en el script.
+## Script Functions:
+- It will merge the files into one file called "Prueba.txt".
+- It will process the data from the "Prueba.txt" file to obtain information about the files and folders.
+- It will identify and display duplicate files.
+- It will sort and filter the obtained result.
+- It will create an Excel file named "PruebaExcel.xlsx" with two sheets: "TOP Heavy Files" and "Duplicate Files".
+
+## Result
+You can find the generated report in the "PruebaExcel.xlsx" file. The report contains detailed information about the files, including the name, size, owner, weight, weight in GB, date, path, and file type.
+Make sure to review the report to identify any duplicate files and the heaviest files within the folder.
+
+## Additional Notes
+If you want to change the source folder, you can modify the "folder" (archivo) variable in the script.
